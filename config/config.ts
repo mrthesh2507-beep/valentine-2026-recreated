@@ -21,7 +21,7 @@
 export const config = {
   // ─── Names ──────────────────────────────────────────────────────────
   /** The recipient's name (the person taking the quiz) */
-  recipientName: 'My Sandakaariii',
+  recipientName: 'Tivashini',
 
   /** The sender's name (the person who created the quiz) */
   senderName: 'Vetheshaa',
